@@ -1,0 +1,12 @@
+/* Custom class to remove link color */
+
+.custom-text-color {
+    color: #707070 !important; /* Set the desired color */
+}
+.custom-background-color {
+    background-color: #B68C5A !important; /* Set the desired color */
+}
+
+.custom-footer {
+    height: 506px;
+}
